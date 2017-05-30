@@ -1,0 +1,78 @@
+div {
+    font-family: sans-serif;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    font-size: 10px;
+    vertical-align: top;
+}
+.label {
+    color: red;
+}
+.farleft {
+    width: 136px;
+    height: 350px;
+}
+.middle {
+    width: 466px;
+    height: 350px;
+    margin-left: 7px;
+}
+.farRight {
+    width: 278px;
+    height: 350px;
+}
+.lower {
+    width: 806px;
+    margin-top: 20px;
+}
+.blue {
+    background-color: #689bff;
+    margin-left: 2px;
+    margin-bottom: 2px;
+    border: 1px solid #808080;
+}
+.red {
+    background-color: #fd9a98;
+    margin-left: 2px;
+    margin-bottom: 2px;
+    margin-right: 0;
+    border: 1px solid #808080;
+}
+.yellow {
+    background-color: #fecb00;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    border: 1px solid #808080;
+}
+.green {
+    background-color: #1fca21;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    border: 1px solid #808080;
+}
+.lilspace {
+    margin-left: 4px;
+}
+.midspace {
+    width: 231px;
+}
+.longtext {
+    width: 130px;
+    margin: 0;
+    color: red;
+
+}
+.bigspace {
+    width: 478px;
+    height: 132px;
+}
+.asterix {
+    color: red;
+    width: 10px;
+}
+span {
+    color: #1913a2;
+    font-size: 15px;
+}
